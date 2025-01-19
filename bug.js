@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android APK. The build process fails with an error message similar to "Execution failed for task ':app:processDebugResources'. > AAPT2 error: check logs for details."
